@@ -1,3 +1,4 @@
-This is to add a new file to local repository for testing
+This is to add a new file to master/release1 repository for testing
+modifying for Master repo
 modifying for release1 repo
 
